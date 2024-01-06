@@ -1,0 +1,15 @@
+D:\C#\Selection Sort\bin\Debug\net7.0\Selection Sort.exe
+D:\C#\Selection Sort\bin\Debug\net7.0\Selection Sort.deps.json
+D:\C#\Selection Sort\bin\Debug\net7.0\Selection Sort.runtimeconfig.json
+D:\C#\Selection Sort\bin\Debug\net7.0\Selection Sort.dll
+D:\C#\Selection Sort\bin\Debug\net7.0\Selection Sort.pdb
+D:\C#\Selection Sort\obj\Debug\net7.0\Selection Sort.csproj.AssemblyReference.cache
+D:\C#\Selection Sort\obj\Debug\net7.0\Selection Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Selection Sort\obj\Debug\net7.0\Selection Sort.AssemblyInfoInputs.cache
+D:\C#\Selection Sort\obj\Debug\net7.0\Selection Sort.AssemblyInfo.cs
+D:\C#\Selection Sort\obj\Debug\net7.0\Selection Sort.csproj.CoreCompileInputs.cache
+D:\C#\Selection Sort\obj\Debug\net7.0\Selection Sort.dll
+D:\C#\Selection Sort\obj\Debug\net7.0\refint\Selection Sort.dll
+D:\C#\Selection Sort\obj\Debug\net7.0\Selection Sort.pdb
+D:\C#\Selection Sort\obj\Debug\net7.0\Selection Sort.genruntimeconfig.cache
+D:\C#\Selection Sort\obj\Debug\net7.0\ref\Selection Sort.dll
