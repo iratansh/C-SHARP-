@@ -1,0 +1,15 @@
+D:\C#\Nickname Generator\obj\Debug\net7.0\Nickname Generator.csproj.AssemblyReference.cache
+D:\C#\Nickname Generator\obj\Debug\net7.0\Nickname Generator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Nickname Generator\obj\Debug\net7.0\Nickname Generator.AssemblyInfoInputs.cache
+D:\C#\Nickname Generator\obj\Debug\net7.0\Nickname Generator.AssemblyInfo.cs
+D:\C#\Nickname Generator\obj\Debug\net7.0\Nickname Generator.csproj.CoreCompileInputs.cache
+D:\C#\Nickname Generator\bin\Debug\net7.0\Nickname Generator.exe
+D:\C#\Nickname Generator\bin\Debug\net7.0\Nickname Generator.deps.json
+D:\C#\Nickname Generator\bin\Debug\net7.0\Nickname Generator.runtimeconfig.json
+D:\C#\Nickname Generator\bin\Debug\net7.0\Nickname Generator.dll
+D:\C#\Nickname Generator\bin\Debug\net7.0\Nickname Generator.pdb
+D:\C#\Nickname Generator\obj\Debug\net7.0\Nickname Generator.dll
+D:\C#\Nickname Generator\obj\Debug\net7.0\refint\Nickname Generator.dll
+D:\C#\Nickname Generator\obj\Debug\net7.0\Nickname Generator.pdb
+D:\C#\Nickname Generator\obj\Debug\net7.0\Nickname Generator.genruntimeconfig.cache
+D:\C#\Nickname Generator\obj\Debug\net7.0\ref\Nickname Generator.dll

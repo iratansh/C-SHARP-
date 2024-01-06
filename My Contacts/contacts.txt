@@ -1,0 +1,18 @@
+{
+  "Red": {
+    "Phone": "111-111-1111",
+    "Email": "r@gmail.com"
+  },
+  "Green": {
+    "Phone": "222-222-2222",
+    "Email": "g@gmail.com"
+  },
+  "Orange": {
+    "Phone": "333-333-3333",
+    "Email": "o@gmail.com"
+  },
+  "Blue": {
+    "Phone": "555-555-5555",
+    "Email": "b@gmail.com"
+  }
+}

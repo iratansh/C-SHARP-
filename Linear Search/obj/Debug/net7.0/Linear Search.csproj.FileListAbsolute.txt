@@ -1,0 +1,15 @@
+D:\C#\Linear Search\obj\Debug\net7.0\Linear Search.csproj.AssemblyReference.cache
+D:\C#\Linear Search\obj\Debug\net7.0\Linear Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Linear Search\obj\Debug\net7.0\Linear Search.AssemblyInfoInputs.cache
+D:\C#\Linear Search\obj\Debug\net7.0\Linear Search.AssemblyInfo.cs
+D:\C#\Linear Search\obj\Debug\net7.0\Linear Search.csproj.CoreCompileInputs.cache
+D:\C#\Linear Search\bin\Debug\net7.0\Linear Search.exe
+D:\C#\Linear Search\bin\Debug\net7.0\Linear Search.deps.json
+D:\C#\Linear Search\bin\Debug\net7.0\Linear Search.runtimeconfig.json
+D:\C#\Linear Search\bin\Debug\net7.0\Linear Search.dll
+D:\C#\Linear Search\bin\Debug\net7.0\Linear Search.pdb
+D:\C#\Linear Search\obj\Debug\net7.0\Linear Search.dll
+D:\C#\Linear Search\obj\Debug\net7.0\refint\Linear Search.dll
+D:\C#\Linear Search\obj\Debug\net7.0\Linear Search.pdb
+D:\C#\Linear Search\obj\Debug\net7.0\Linear Search.genruntimeconfig.cache
+D:\C#\Linear Search\obj\Debug\net7.0\ref\Linear Search.dll

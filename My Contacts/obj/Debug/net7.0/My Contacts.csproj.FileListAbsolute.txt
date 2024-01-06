@@ -1,0 +1,15 @@
+D:\C#\My Contacts\obj\Debug\net7.0\My Contacts.csproj.AssemblyReference.cache
+D:\C#\My Contacts\obj\Debug\net7.0\My Contacts.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\My Contacts\obj\Debug\net7.0\My Contacts.AssemblyInfoInputs.cache
+D:\C#\My Contacts\obj\Debug\net7.0\My Contacts.AssemblyInfo.cs
+D:\C#\My Contacts\obj\Debug\net7.0\My Contacts.csproj.CoreCompileInputs.cache
+D:\C#\My Contacts\bin\Debug\net7.0\My Contacts.exe
+D:\C#\My Contacts\bin\Debug\net7.0\My Contacts.deps.json
+D:\C#\My Contacts\bin\Debug\net7.0\My Contacts.runtimeconfig.json
+D:\C#\My Contacts\bin\Debug\net7.0\My Contacts.dll
+D:\C#\My Contacts\bin\Debug\net7.0\My Contacts.pdb
+D:\C#\My Contacts\obj\Debug\net7.0\My Contacts.dll
+D:\C#\My Contacts\obj\Debug\net7.0\refint\My Contacts.dll
+D:\C#\My Contacts\obj\Debug\net7.0\My Contacts.pdb
+D:\C#\My Contacts\obj\Debug\net7.0\My Contacts.genruntimeconfig.cache
+D:\C#\My Contacts\obj\Debug\net7.0\ref\My Contacts.dll
