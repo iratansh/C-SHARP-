@@ -1,0 +1,15 @@
+D:\C#\Student Grades\bin\Debug\net7.0\Student Grades.exe
+D:\C#\Student Grades\bin\Debug\net7.0\Student Grades.deps.json
+D:\C#\Student Grades\bin\Debug\net7.0\Student Grades.runtimeconfig.json
+D:\C#\Student Grades\bin\Debug\net7.0\Student Grades.dll
+D:\C#\Student Grades\bin\Debug\net7.0\Student Grades.pdb
+D:\C#\Student Grades\obj\Debug\net7.0\Student Grades.csproj.AssemblyReference.cache
+D:\C#\Student Grades\obj\Debug\net7.0\Student Grades.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Student Grades\obj\Debug\net7.0\Student Grades.AssemblyInfoInputs.cache
+D:\C#\Student Grades\obj\Debug\net7.0\Student Grades.AssemblyInfo.cs
+D:\C#\Student Grades\obj\Debug\net7.0\Student Grades.csproj.CoreCompileInputs.cache
+D:\C#\Student Grades\obj\Debug\net7.0\Student Grades.dll
+D:\C#\Student Grades\obj\Debug\net7.0\refint\Student Grades.dll
+D:\C#\Student Grades\obj\Debug\net7.0\Student Grades.pdb
+D:\C#\Student Grades\obj\Debug\net7.0\Student Grades.genruntimeconfig.cache
+D:\C#\Student Grades\obj\Debug\net7.0\ref\Student Grades.dll
