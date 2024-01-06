@@ -1,0 +1,15 @@
+D:\C#\Binary Search\bin\Debug\net7.0\Binary Search.exe
+D:\C#\Binary Search\bin\Debug\net7.0\Binary Search.deps.json
+D:\C#\Binary Search\bin\Debug\net7.0\Binary Search.runtimeconfig.json
+D:\C#\Binary Search\bin\Debug\net7.0\Binary Search.dll
+D:\C#\Binary Search\bin\Debug\net7.0\Binary Search.pdb
+D:\C#\Binary Search\obj\Debug\net7.0\Binary Search.csproj.AssemblyReference.cache
+D:\C#\Binary Search\obj\Debug\net7.0\Binary Search.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Binary Search\obj\Debug\net7.0\Binary Search.AssemblyInfoInputs.cache
+D:\C#\Binary Search\obj\Debug\net7.0\Binary Search.AssemblyInfo.cs
+D:\C#\Binary Search\obj\Debug\net7.0\Binary Search.csproj.CoreCompileInputs.cache
+D:\C#\Binary Search\obj\Debug\net7.0\Binary Search.dll
+D:\C#\Binary Search\obj\Debug\net7.0\refint\Binary Search.dll
+D:\C#\Binary Search\obj\Debug\net7.0\Binary Search.pdb
+D:\C#\Binary Search\obj\Debug\net7.0\Binary Search.genruntimeconfig.cache
+D:\C#\Binary Search\obj\Debug\net7.0\ref\Binary Search.dll

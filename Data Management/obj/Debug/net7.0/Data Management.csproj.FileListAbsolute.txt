@@ -1,0 +1,15 @@
+D:\C#\Data Management\obj\Debug\net7.0\Data Management.csproj.AssemblyReference.cache
+D:\C#\Data Management\obj\Debug\net7.0\Data Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Data Management\obj\Debug\net7.0\Data Management.AssemblyInfoInputs.cache
+D:\C#\Data Management\obj\Debug\net7.0\Data Management.AssemblyInfo.cs
+D:\C#\Data Management\obj\Debug\net7.0\Data Management.csproj.CoreCompileInputs.cache
+D:\C#\Data Management\bin\Debug\net7.0\Data Management.exe
+D:\C#\Data Management\bin\Debug\net7.0\Data Management.deps.json
+D:\C#\Data Management\bin\Debug\net7.0\Data Management.runtimeconfig.json
+D:\C#\Data Management\bin\Debug\net7.0\Data Management.dll
+D:\C#\Data Management\bin\Debug\net7.0\Data Management.pdb
+D:\C#\Data Management\obj\Debug\net7.0\Data Management.dll
+D:\C#\Data Management\obj\Debug\net7.0\refint\Data Management.dll
+D:\C#\Data Management\obj\Debug\net7.0\Data Management.pdb
+D:\C#\Data Management\obj\Debug\net7.0\Data Management.genruntimeconfig.cache
+D:\C#\Data Management\obj\Debug\net7.0\ref\Data Management.dll

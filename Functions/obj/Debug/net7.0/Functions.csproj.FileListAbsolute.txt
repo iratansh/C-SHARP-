@@ -1,0 +1,15 @@
+D:\C#\Functions\bin\Debug\net7.0\Functions.exe
+D:\C#\Functions\bin\Debug\net7.0\Functions.deps.json
+D:\C#\Functions\bin\Debug\net7.0\Functions.runtimeconfig.json
+D:\C#\Functions\bin\Debug\net7.0\Functions.dll
+D:\C#\Functions\bin\Debug\net7.0\Functions.pdb
+D:\C#\Functions\obj\Debug\net7.0\Functions.csproj.AssemblyReference.cache
+D:\C#\Functions\obj\Debug\net7.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Functions\obj\Debug\net7.0\Functions.AssemblyInfoInputs.cache
+D:\C#\Functions\obj\Debug\net7.0\Functions.AssemblyInfo.cs
+D:\C#\Functions\obj\Debug\net7.0\Functions.csproj.CoreCompileInputs.cache
+D:\C#\Functions\obj\Debug\net7.0\Functions.dll
+D:\C#\Functions\obj\Debug\net7.0\refint\Functions.dll
+D:\C#\Functions\obj\Debug\net7.0\Functions.pdb
+D:\C#\Functions\obj\Debug\net7.0\Functions.genruntimeconfig.cache
+D:\C#\Functions\obj\Debug\net7.0\ref\Functions.dll
