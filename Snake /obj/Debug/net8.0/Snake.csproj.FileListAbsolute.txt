@@ -1,0 +1,14 @@
+/Users/ishaanratanshi/C# Modern GUI/Snake/bin/Debug/net8.0/Snake
+/Users/ishaanratanshi/C# Modern GUI/Snake/bin/Debug/net8.0/Snake.deps.json
+/Users/ishaanratanshi/C# Modern GUI/Snake/bin/Debug/net8.0/Snake.runtimeconfig.json
+/Users/ishaanratanshi/C# Modern GUI/Snake/bin/Debug/net8.0/Snake.dll
+/Users/ishaanratanshi/C# Modern GUI/Snake/bin/Debug/net8.0/Snake.pdb
+/Users/ishaanratanshi/C# Modern GUI/Snake/obj/Debug/net8.0/Snake.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishaanratanshi/C# Modern GUI/Snake/obj/Debug/net8.0/Snake.AssemblyInfoInputs.cache
+/Users/ishaanratanshi/C# Modern GUI/Snake/obj/Debug/net8.0/Snake.AssemblyInfo.cs
+/Users/ishaanratanshi/C# Modern GUI/Snake/obj/Debug/net8.0/Snake.csproj.CoreCompileInputs.cache
+/Users/ishaanratanshi/C# Modern GUI/Snake/obj/Debug/net8.0/Snake.dll
+/Users/ishaanratanshi/C# Modern GUI/Snake/obj/Debug/net8.0/refint/Snake.dll
+/Users/ishaanratanshi/C# Modern GUI/Snake/obj/Debug/net8.0/Snake.pdb
+/Users/ishaanratanshi/C# Modern GUI/Snake/obj/Debug/net8.0/Snake.genruntimeconfig.cache
+/Users/ishaanratanshi/C# Modern GUI/Snake/obj/Debug/net8.0/ref/Snake.dll
