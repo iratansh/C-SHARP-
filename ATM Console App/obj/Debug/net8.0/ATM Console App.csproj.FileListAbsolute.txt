@@ -1,0 +1,14 @@
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/bin/Debug/net8.0/ATM Console App
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/bin/Debug/net8.0/ATM Console App.deps.json
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/bin/Debug/net8.0/ATM Console App.runtimeconfig.json
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/bin/Debug/net8.0/ATM Console App.dll
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/bin/Debug/net8.0/ATM Console App.pdb
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/obj/Debug/net8.0/ATM Console App.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/obj/Debug/net8.0/ATM Console App.AssemblyInfoInputs.cache
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/obj/Debug/net8.0/ATM Console App.AssemblyInfo.cs
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/obj/Debug/net8.0/ATM Console App.csproj.CoreCompileInputs.cache
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/obj/Debug/net8.0/ATM Console App.dll
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/obj/Debug/net8.0/refint/ATM Console App.dll
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/obj/Debug/net8.0/ATM Console App.pdb
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/obj/Debug/net8.0/ATM Console App.genruntimeconfig.cache
+/Users/ishaanratanshi/C# Modern GUI/ATM Console App/obj/Debug/net8.0/ref/ATM Console App.dll
