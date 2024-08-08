@@ -1,0 +1,18 @@
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/Web Scraper.csproj.AssemblyReference.cache
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/Web Scraper.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/Web Scraper.AssemblyInfoInputs.cache
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/Web Scraper.AssemblyInfo.cs
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/Web Scraper.csproj.CoreCompileInputs.cache
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/bin/Debug/net8.0/Web Scraper
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/bin/Debug/net8.0/Web Scraper.deps.json
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/bin/Debug/net8.0/Web Scraper.runtimeconfig.json
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/bin/Debug/net8.0/Web Scraper.dll
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/bin/Debug/net8.0/Web Scraper.pdb
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/bin/Debug/net8.0/HtmlAgilityPack.dll
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/bin/Debug/net8.0/System.Xml.XPath.XmlDocument.dll
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/Web Scra.32263003.Up2Date
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/Web Scraper.dll
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/refint/Web Scraper.dll
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/Web Scraper.pdb
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/Web Scraper.genruntimeconfig.cache
+/Users/ishaanratanshi/C# Modern GUI/Web Scraper/obj/Debug/net8.0/ref/Web Scraper.dll
